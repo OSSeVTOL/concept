@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2025-01-28T11:55:22.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="p1uLaF9L27gZNhVR0Fxp" version="23.0.2" type="device">
+  <diagram name="Page-1" id="YJnuucfii-XwStUzfXDj">
+    <mxGraphModel dx="934" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-1" value="eVTOL Context" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=Verdana;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="630" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-19" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; Remote&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="280" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-18" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; On the ground + Remote&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="61" y="160" width="280" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-2" value="Aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-3" value="Operator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-4" value="Passenger" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-5" value="Control Room" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-6" value="Air Traffic Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-8" value="eVTO Readyness" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-10" value="Telematics and Remote Operations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-11" value="Regulations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="517" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-12" value="Emergency Services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="517" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-16" value="Charging Station" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qSLJYfDA8ZZZOsEWdCU-17" value="Safety Monitor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
